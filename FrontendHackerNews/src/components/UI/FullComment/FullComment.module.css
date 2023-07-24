@@ -1,0 +1,12 @@
+.CommentSection {
+  margin: 10px 10px;
+}
+
+.Context {
+  opacity: 0.6;
+}
+
+.Comment {
+  font-size: 16px;
+  margin-left: 20px;
+}

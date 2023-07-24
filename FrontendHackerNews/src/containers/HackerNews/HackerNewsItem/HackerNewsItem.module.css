@@ -1,0 +1,32 @@
+.Heading {
+  display: inline;
+}
+
+.UpvoteIcon {
+  vertical-align: middle;
+}
+
+.AddComment {
+  display: block;
+  width: 400px;
+}
+
+.CommentAdder {
+  display: block;
+  margin: 20px;
+
+  width: 400px;
+  margin: 20px 60px;
+}
+
+.CommentAdder > button {
+  margin-top: 10px;
+}
+
+.RootReply {
+  padding-left: 20px;
+}
+
+.L1Reply {
+  padding-left: 40px;
+}

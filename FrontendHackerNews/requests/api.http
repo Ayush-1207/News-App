@@ -1,0 +1,26 @@
+
+### Get all posts
+GET http://localhost:8080/api/posts
+
+### Get single post
+GET http://localhost:8080/api/posts/6016fb9bf17e1bd741befcb3
+
+### Get a comment thread
+GET http://localhost:8080/api/posts/6016fb9bf17e1bd741befcb3/60170191c9120b1aa08e4434
+
+### Get all the newest comments
+GET http://localhost:8080/api/newcomments
+
+
+### Users:
+
+### Get a list of users (public info)
+GET http://localhost:8080/api/users
+
+### Get a specific user by id
+GET http://localhost:8080/api/users/60128b49623026adc7f3f3c0
+
+### or by username
+GET http://localhost:8080/api/users/supMall
+
+

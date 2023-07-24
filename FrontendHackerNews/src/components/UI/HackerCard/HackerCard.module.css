@@ -1,0 +1,35 @@
+.Card {
+  position: relative;
+
+  padding: 10px;
+  margin: 0px auto;
+  margin-top: 10px;
+  padding-left: 20px;
+  width: 90%;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+  border-radius: 2px;
+  background-color: white;
+}
+
+.mainContent {
+  padding-left: 20px;
+}
+
+.helper {
+  top: 85px;
+
+  font-size: 20px;
+  padding-right: 10px;
+  float: left;
+}
+
+.buttonLink {
+  text-decoration: none;
+  background: none;
+  border: none;
+}
+
+.buttonLink:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}

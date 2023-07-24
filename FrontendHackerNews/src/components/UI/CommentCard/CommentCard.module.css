@@ -1,0 +1,19 @@
+.UpvoteIcon {
+  border: none;
+  text-decoration: none;
+  background: none;
+  background-image: none;
+}
+
+.Card {
+  margin: 10px;
+  padding: 5px;
+  margin: 10px 5%;
+}
+
+.Card2 {
+  margin: 10px;
+  padding: 5px;
+  margin: 10px 5%;
+  margin-left: 60px;
+}

@@ -1,0 +1,69 @@
+.HomePage {
+  background-color: bisque;
+
+  margin: 10px;
+  padding: 20px;
+}
+
+.HomeContent {
+  height: 920px;
+  border: 2px solid black;
+}
+
+.Navigation {
+  width: 100%;
+  display: inline;
+}
+
+.HomePage ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.topicsNav {
+  text-align: start;
+}
+
+.userNav {
+  text-align: end;
+}
+
+.footer {
+  margin-top: 20px;
+}
+
+.logo {
+}
+
+.footerNav {
+  text-align: center;
+  margin: 20px;
+}
+
+.HomePage li {
+  display: inline;
+  margin: 20px;
+}
+
+.HomePage a {
+  text-decoration: none;
+  color: black;
+}
+
+.HomePage a:hover,
+.HomePage a:active {
+  color: gray;
+  text-decoration: underline;
+}
+
+.ButtonAsLink {
+  text-decoration: none;
+  background: none;
+  border: none;
+}
+
+.ButtonAsLink:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}

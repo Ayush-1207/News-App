@@ -1,0 +1,16 @@
+.AddComment {
+  display: block;
+  width: 400px;
+}
+
+.CommentAdder {
+  display: block;
+  margin: 20px;
+
+  width: 400px;
+  margin-left: 40px;
+}
+
+.CommentAdder > button {
+  margin-top: 10px;
+}
